@@ -24,7 +24,7 @@ Data Structures • Algorithms • Problem Solving • OOPs
 
 **IoT**
 
-ESP32 • ESP8266 • Sensors • ThingSpeak
+ESP32 • ESP8266 • Sensors • ThingSpeak 
 
 **Tools**
 
@@ -40,5 +40,5 @@ Currently solving DSA problems and working towards becoming a better problem sol
 
 ### 🤝 Connect With Me
 
-* 💼 LinkedIn: [Your LinkedIn]
-* 📧 Email: [Your Email]
+* 💼 LinkedIn: www.linkedin.com/in/bhargavi-medagam-376292360
+* 📧 Email: bhargavimedagam7@gmail.com
