@@ -16,7 +16,7 @@ I am passionate about exploring technology, solving challenging problems, and co
 
 **Languages**
 
-Java • Python • C • C++
+Java  .JavaScript .HTML5 , CSS3 
 
 **Core Skills**
 
